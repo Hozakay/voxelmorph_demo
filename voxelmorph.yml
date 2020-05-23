@@ -1,0 +1,10 @@
+ name: voxelmorph
+ dependencies:
+   - tensorflow==1.14
+   - jupyter
+   - keras
+   - matplotlib
+   - scipy
+   - tqdm
+   - pillow
+   - conda-forge::nibabel
