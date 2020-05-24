@@ -1,6 +1,8 @@
 Prepare voxelmorph demo
 ===============================
 
+First of all download this project from github and save it on your pc.
+
 Anaconda is an easy way to handle versions, packages and modules in environments.
 You can prepare it another way, but it will be easiest to go with conda.
 
